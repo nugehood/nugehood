@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Dandelion Games.
 - 🌱 I’m currently learning LUA, C#, JSON.
 - 📫 How to reach me: nugehood@gmail.com.
-- ⚡ Fun fact: I learn everything myself.
