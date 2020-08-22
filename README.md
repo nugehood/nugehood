@@ -1,8 +1,7 @@
 ### Hi there 👋
 [![HitCount](http://hits.dwyl.com/nugehood/nugehood.svg)](http://hits.dwyl.com/nugehood/nugehood)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nugehood)](https://github.com/anuraghazra/github-readme-stats)
+<h5>Check out my other stuff!</h5>
 <a href="https://www.linkedin.com/in/anugerah-maulana-2ab193175/">
   <img align="left" alt="Anugerah's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,6 +15,7 @@
 <br />
 
 
+
 ❤️🧡💛💚💙💜🤎🖤🤍♥️🤍🖤
 
 - 🔭 I’m currently working on Dandelion Games.
@@ -25,6 +25,8 @@
 - 😊 Native Indonesian speaker and fluent in English.
 
 ❤️🧡💛💚💙💜🤎🖤🤍♥️🤍🖤
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nugehood)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Languages and Tools:**  
