@@ -13,6 +13,8 @@
 </a>
 <br />
 <br />
+<img align="right" alt="GIF" src="https://pa1.narvii.com/6593/228e2fc6817fc97762059df978485effd9d16dca_hq.gif" />
+
 
 
 
@@ -26,7 +28,13 @@
 
 ❤️🧡💛💚💙💜🤎🖤🤍♥️🤍🖤
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nugehood)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary> <b>My current statistics</b> <i>(click to expand!)</i> </summary>
+  <br />
+  
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nugehood)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  </details>
 
 
 **Languages and Tools:**  
