@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi! My name is **Anugerah**, I'm an **Indie Game Developer**. I am using **Unity** as my main game engine🎮, using it with **C#**. Been making games and experimenting for **5 years**. I'm really interested with **OOP** languages📦.
+Hi! My name is **Anugerah**, I am a **Indie Game Developer**. I am using **Unity** as my main game engine🎮, using it with **C#**. Been making games and experimenting for **5 years**. I'm really interested with **OOP** languages📦.
 
   <img align="right" alt="GIF" width = "500px" height = "277px" src="https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif"/>
 
