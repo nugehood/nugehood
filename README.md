@@ -33,5 +33,9 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/html5.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/java.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/adobephotoshop.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/bootstrap.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/mysql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/lua.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/lua.svg"></code>
 
 
