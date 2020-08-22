@@ -6,11 +6,11 @@
 <a href="https://www.linkedin.com/in/anugerah-maulana-2ab193175/">
   <img align="left" alt="Anugerah's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://steamcommunity.com/id/syaufy">
+<a href="https://steamcommunity.com/id/nugehood/">
   <img align="left" alt="Anugerah's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
 <a href="https://dandeliongaames.itch.io">
-  <img align="left" alt="Anugerah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Anugerah's Games" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/itch-dot-io.svg" />
 
 <br />
 <br />
