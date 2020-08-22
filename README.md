@@ -3,8 +3,8 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nugehood)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://www.linkedin.com/in/syaufy/">
-  <img align="left" alt="Syauqi's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/anugerah-maulana-2ab193175/">
+  <img align="left" alt="Anugerah's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://steamcommunity.com/id/syaufy">
   <img align="left" alt="Anugerah's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
