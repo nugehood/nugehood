@@ -30,4 +30,8 @@
 **Languages and Tools:**  
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/unity.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/html5.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/java.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/adobephotoshop.svg"></code>
+
 
