@@ -25,3 +25,9 @@
 - 😊 Native Indonesian speaker and fluent in English.
 
 ❤️🧡💛💚💙💜🤎🖤🤍♥️🤍🖤
+
+
+**Languages and Tools:**  
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/unity.svg"></code>
+
