@@ -36,6 +36,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/bootstrap.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/mysql.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/lua.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/lua.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/css3.svg"></code>
 
 
