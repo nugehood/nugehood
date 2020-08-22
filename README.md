@@ -13,7 +13,7 @@
 </a>
 <br />
 <br />
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif" />
+<img align="right" alt="GIF" width = "500px" height = "277px" src="https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif" />
 
 
 
