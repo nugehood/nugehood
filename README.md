@@ -22,7 +22,7 @@ Hi! My name is **Anugerah**, I'm an **Indie Game Developer**. I am using **Unity
 
 
 
-❤️🧡💛💚💙💜🤎🖤🤍❤️🧡💛💚💙💜🤎🖤🤍
+❤️🧡💛💚💙💜🤎🖤❤️🧡💛💚💙💜🤎🖤🤍
 
 - 🔭 I’m currently working on Dandelion Games.
 - 🌱 I’m currently learning LUA, C#, JSON.
