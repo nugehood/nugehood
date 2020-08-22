@@ -2,6 +2,7 @@
 [![HitCount](http://hits.dwyl.com/nugehood/nugehood.svg)](http://hits.dwyl.com/nugehood/nugehood)
 
 <h5>Check out my other stuff!</h5>
+
 <a href="https://www.linkedin.com/in/anugerah-maulana-2ab193175/">
   <img align="left" alt="Anugerah's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,6 +16,7 @@
 <br />
 <img align="right" alt="GIF" width = "500px" height = "277px" src="https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif" />
 
+Hi! My name is **Anugerah**, I'm an **Indie Game Developer**. I am using **Unity** as my main game engine🎮, using it with **C#**. Been making games and experimenting for **5 years**. I'm really interested with **OOP** languages📦.
 
 
 
@@ -29,7 +31,7 @@
 ❤️🧡💛💚💙💜🤎🖤🤍♥️🤍🖤
 
 <details>
-<summary> <b>My current statistics</b> <i>(click to expand!)</i> </summary>
+<summary> <b>My current statistics📊</b> <i>(click to expand!)</i> </summary>
   <br />
   
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nugehood)](https://github.com/anuraghazra/github-readme-stats)
