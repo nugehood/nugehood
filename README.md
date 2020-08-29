@@ -25,7 +25,7 @@ Hi! My name is **Anugerah**, I am a **Indie Game Developer**. I am using **Unity
 ❤️🧡💛💚💙💜🤎🖤❤️🧡💛💚💙💜🤎🖤🤍
 
 - 🔭 I’m currently working on Dandelion Games.
-- 🌱 I’m currently learning LUA, C#, JSON.
+- 🌱 I’m currently learning LUA, C#, PICO-8.
 - 📫 How to reach me: nugehood@gmail.com.
 - 📜 Find my projects on: (https://dandeliongaames.itch.io)
 - 😊 Native Indonesian speaker and fluent in English.
