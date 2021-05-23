@@ -15,22 +15,7 @@
 <br />
 <br />
 
-Hi! My name is **Anugerah**, I am a **Indie Game Developer**. I am using **Unity** as my main game engine🎮, using it with **C#**. Been making games and experimenting for **5 years**. I'm really interested in **OOP** languages📦.
-
-  <img align="right" alt="GIF" width = "500px" height = "277px" src="https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif"/>
-
-
-
-
-❤️🧡💛💚💙💜🤎🖤❤️🧡💛💚💙💜🤎🖤🤍
-
-- 🔭 I’m currently working on Dandelion Games.
-- 🌱 I’m currently learning LUA, C#, PICO-8.
-- 📫 How to reach me: nugehood@gmail.com.
-- 📜 Find my projects on: (https://dandeliongaames.itch.io)
-- 😊 Native Indonesian speaker and fluent in English.
-
-❤️🧡💛💚💙💜🤎🖤❤️🧡💛💚💙💜🤎🖤🤍
+Hello!
 
 <details>
 <summary> <b>My current statistics📊</b> <i>(click to expand!)</i> </summary>
