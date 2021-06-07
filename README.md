@@ -30,6 +30,9 @@ Hello!
 <code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg"></img></code>
 <code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"></img></code>
 <code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg"></img></code>
+<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"></img></code>
+<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"></img></code>
+<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"></img></code>
 
 
 
