@@ -27,7 +27,10 @@ Hello!
 
 
 **Languages and Tools:**  
-<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg"></img></code>
+<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg"></img></code>
+<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"></img></code>
+<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg"></img></code>
+
 
 
 
