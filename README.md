@@ -16,7 +16,10 @@
 <br />
 
 <p>
-  Yeah I like making stuff, digitally or not. I don't force myself to code, the only time I code is when I have a creative idea. I finished the experimental project for the sake of experience. I learn everything myself, because I like solitude and you should!
+  Yeah I like making stuff, digitally or not. I don't force myself to code, the only time I code is when I have a creative idea. 
+  I finished my experimental project for the sake of experience. I learn everything myself, because I like solitude and you should too!
+  Aside from coding, I also feed my creativity visually through design, I love Typography.
+  I learn English from experience in practice, and then I study it in theory.
 </p> 
 
 <details>
