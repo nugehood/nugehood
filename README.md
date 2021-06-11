@@ -1,16 +1,16 @@
-### I'm Anugerah, you can call me G!
+### Anugerah, that's my name.
 ![Profile views](https://gpvc.arturio.dev/nugehood)
 
 <h5>Check my other stuff out!</h5>
 
 <a href="https://www.linkedin.com/in/anugerah-maulana-2ab193175/">
-  <img align="left" alt="Anugerah's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://steamcommunity.com/id/nugehood/">
-  <img align="left" alt="Anugerah's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 <a href="https://dandeliongaames.itch.io">
-  <img align="left" alt="Anugerah's Games" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/itch-dot-io.svg" />
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch-dot-io&logoColor=white" />
 </a>
 <br />
 <br />
