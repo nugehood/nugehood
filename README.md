@@ -15,7 +15,9 @@
 <br />
 <br />
 
-<h1></h1>
+<p>
+  Yeah I like making stuff, digitally or not. I don't force myself to code, the only time I code is when I have a creative idea. I finished the experimental project for the sake of experience. I learn everything myself, because I like solitude and you should!
+</p> 
 
 <details>
 <summary> <b>My current statistics📊</b> <i>(click to expand!)</i> </summary>
