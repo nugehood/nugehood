@@ -1,7 +1,7 @@
-### Hi there 👋 Anugerah here!
+### I'm Anugerah, you can call me G!
 ![Profile views](https://gpvc.arturio.dev/nugehood)
 
-<h5>Check out my other stuff!</h5>
+<h5>Check my other stuff out!</h5>
 
 <a href="https://www.linkedin.com/in/anugerah-maulana-2ab193175/">
   <img align="left" alt="Anugerah's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,8 +15,8 @@
 <br />
 <br />
 
-<h5>Yes thank you for asking.</h5>
-<h5>No I'm not.</h5>
+<h1></h1>
+
 <details>
 <summary> <b>My current statistics📊</b> <i>(click to expand!)</i> </summary>
   <br />
@@ -27,14 +27,7 @@
 
 
 **Languages and Tools:**  
-<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg"></img></code>
-<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"></img></code>
-<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg"></img></code>
-<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"></img></code>
-<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"></img></code>
-<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"></img></code>
-<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"></img></code>
-
+<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
 
 
 
