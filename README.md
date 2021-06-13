@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/zulmarij/zulmarij/master/wave.gif" width="50px"/>Anugerah, that's my name👨‍🎨
-![Profile views](https://gpvc.arturio.dev/nugehood)
+![](https://komarev.com/ghpvc/?username=nugehood&color=yellow)
 
 <p>
   Yeah I like making stuff, digitally or not. I don't force myself to code, the only time I code is when I have a creative idea. 
