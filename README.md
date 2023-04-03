@@ -2,17 +2,19 @@
 ![](https://komarev.com/ghpvc/?username=nugehood&color=yellow)
 
 <p>
-  Yeah I like making stuff, digitally or not. I don't force myself to code, the only time I code is when I have a creative idea. 
-  I finished my experimental project for the sake of experience. I learn everything myself, because I like solitude and you should too!
-  Aside from coding, I also feed my creativity visually through design, I love Typography.
-  I learn English from experience in practice, and then I study it in theory.
+  Even though I code less than before, I still have the ability to understand and write code! Still passionate BTW!
+  Now I am focusing on to be a Graphic Designer, and Video Editor!
+  
+  You will not be dissapointed if you hire me! I've exposed myself (and still), to the digital world, and so when it comes to learning something new and implementing that, I am the guy you're looking for!
+  
+  * I'm a fast learner 😉
 </p> 
 
 <details>
 <summary> <b>My current statistics📊</b> <i>(click to expand!)</i> </summary>
   <br />
   
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nugehood)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anugerah's github stats](https://github-readme-stats.vercel.app/api?username=nugehood)](https://github.com/anuraghazra/github-readme-stats)
  
   </details>
  
@@ -29,6 +31,8 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+Davinci Resolve 18
+Vegas Pro 19
 
 ## Check my other stuff out!
 <a href="https://www.linkedin.com/in/anugerah-maulana-2ab193175/">
